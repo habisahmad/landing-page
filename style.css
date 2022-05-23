@@ -41,11 +41,19 @@ a{
 
 .lower{
     display: flex;
+    align-items: center;
 }
 
 .lower2{
     width: 500px;
     margin-right: 250px;
+}
+
+.placeholder{
+    width: 500px;
+    height: 250px;
+    background-color: gray;
+    align-items: center;
 }
 
 .subtext{
