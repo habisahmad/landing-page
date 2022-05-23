@@ -6,9 +6,29 @@ body{
 
 .container{
     background-color: #1F2937;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .headerlogo{
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7Eb;
 }
