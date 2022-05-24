@@ -85,3 +85,7 @@ button{
     border: 3px solid blue;
     border-radius: 20%;
 }
+
+.container-two{
+    display: flex;
+}
