@@ -2,12 +2,14 @@
 
 body{
     font-family: 'Roboto';
+    margin: 0px;
 }
 
 .container{
     background-color: #1F2937;
     padding-left: 150px;
     padding-right: 150px;
+    padding-top: 20px;
 }
 
 .headerlogo{
