@@ -131,3 +131,7 @@ button{
     display: flex;
     flex-direction: column;
 }
+
+.button{
+    border: 3px solid white;
+}
