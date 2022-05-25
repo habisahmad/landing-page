@@ -117,3 +117,10 @@ button{
     font-size: 28px;
     padding-left: 800px;
 }
+
+.background{
+    background-color: #3882F6;
+    width: 800px;
+    margin: 100px;
+    border-radius: 20px;
+}
