@@ -112,5 +112,7 @@ button{
     font-size: 36px;
     color: #1F2937;
     text-align: center;
+    width: 900px;
     padding: 150px;
+    padding-left: 400px;
 }
