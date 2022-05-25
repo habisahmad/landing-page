@@ -97,20 +97,23 @@ button{
     margin-bottom: 150px;
     text-align: center;
 }
-
 .container-three{
     background-color: #E5E7EB;
     padding-left: 150px;
     padding-right: 150px;
-    display: flex;
-    flex-direction: column;
-}
+    padding-bottom: 150px;
+} 
 
 
 .quote{
     font-size: 36px;
     color: #1F2937;
     width: 900px;
-    padding: 150px;
-    padding-left: 400px;
+    padding-left: 400px; 
+    padding-top: 150px;
+}
+
+.author{
+    font-size: 28px;
+    padding-left: 800px;
 }
