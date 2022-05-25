@@ -111,4 +111,6 @@ button{
 .quote{
     font-size: 36px;
     color: #1F2937;
+    text-align: center;
+    padding: 150px;
 }
