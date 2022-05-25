@@ -88,4 +88,10 @@ button{
 
 .container-two{
     display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.sub{
+    width: 150px;
+    height: auto;
 }
