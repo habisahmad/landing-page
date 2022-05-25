@@ -100,18 +100,16 @@ button{
 
 .container-three{
     background-color: #E5E7EB;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    flex-direction: column;
 }
 
-.quote,
-.author{
-    margin-left: 150px;
-    margin-right: 150px;
-}
 
 .quote{
     font-size: 36px;
     color: #1F2937;
-    text-align: center;
     width: 900px;
     padding: 150px;
     padding-left: 400px;
