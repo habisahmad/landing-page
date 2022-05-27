@@ -119,7 +119,7 @@ button{
 }
 
 .container-four{
-    margin-left: 300px;
+   margin-left: 300px;
 }
 
 .background{
@@ -139,4 +139,15 @@ button{
 
 .button{
     border: 3px solid white;
+}
+
+.call2action,
+.underheader{
+    color: white;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
 }
