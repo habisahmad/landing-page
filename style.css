@@ -124,17 +124,17 @@ button{
 
 .background{
     background-color: #3882F6;
-    width: 1000px;
+    width: 800px;
     height: 100px;
     margin: 100px;
     border-radius: 20px;
     padding: 50px;
-    display: flex;
+    padding-left: 200px;
 }
 
-.text-box{
+.textbox{
     display: flex;
-    flex-direction: column;
+    gap: 140px;
 }
 
 .button{
