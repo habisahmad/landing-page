@@ -1,6 +1,6 @@
 # landing-page
 
-<-- THIS REPOSITORY IS CURRENTLY UNFINISHED -->
+<-- THIS REPOSITORY HAS BEEN COMPLETED -->
 
 [Project Overview](https://www.theodinproject.com/lessons/foundations-landing-page)
 
