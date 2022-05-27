@@ -149,5 +149,9 @@ button{
 .footer{
     background-color: #1F2937;
     color: white;
-    text-align: center;
+    display: flex;
+    width: auto;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
 }
