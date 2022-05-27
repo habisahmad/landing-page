@@ -118,9 +118,14 @@ button{
     padding-left: 800px;
 }
 
+.container-four{
+    margin-left: 300px;
+}
+
 .background{
     background-color: #3882F6;
-    width: 800px;
+    width: 1000px;
+    height: 100px;
     margin: 100px;
     border-radius: 20px;
     padding: 50px;
